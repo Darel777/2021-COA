@@ -1,0 +1,31 @@
+
+L
+java:S2093w"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8øÁÄìâ.
+L
+java:S2093["*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8øÁÄìâ.
+J
+java:S3010"(Remove this assignment of "disk_device".(ĞÎşÙûÿÿÿÿ8øÁÄìâ.
+x
+java:S3008"VRename this field "disk_device" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İü‡øıÿÿÿÿ8øÁÄìâ.
+L
+java:S2093$"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8øÁÄìâ.
+b
+java:S2147g"ECombine this catch with the one at line 101, which has the same body.(ï­£Ä8øÁÄìâ.
+b
+java:S2147"ECombine this catch with the one at line 125, which has the same body.(ï­£Ä8øÁÄìâ.
+^	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ê¦Œ¢8øÁÄìâ.
+]	java:S125"<This block of commented-out lines of code should be removed.(®…‹øøÿÿÿÿ8øÁÄìâ.
+^	java:S899%"BDo something with the "boolean" value returned by "createNewFile".(Ê¦Œ¢8øÁÄìâ.
+p	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À…ˆÒüÿÿÿÿ8øÁÄìâ.
+y
+java:S1104"WMake DISK_SIZE_B a static final constant or non-public and provide accessors if needed.(«ò¦ışÿÿÿÿ8øÁÄìâ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Å‹›©8øÁÄìâ.
+p
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(úÃ¦˜øÿÿÿÿ8øÁÄìâ.
+\	java:S899";Do something with the "boolean" value returned by "delete".(úÃ¦˜øÿÿÿÿ8øÁÄìâ.
+x
+java:S3008"VRename this field "DISK_SIZE_B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ò¦ışÿÿÿÿ8øÁÄìâ.
+k	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¹¼8øÁÄìâ.
+S
+java:S1444"1Make this "public static DISK_SIZE_B" field final(«ò¦ışÿÿÿÿ8øÁÄìâ.

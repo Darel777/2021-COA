@@ -1,0 +1,26 @@
+
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Ø˜ˆ±ÿÿÿÿÿ8ˆëÅìâ.
+O
+java:S1135Z"2Complete the task associated to this TODO comment.(†ĞÏö8ˆëÅìâ.
+U
+java:S1135¹"2Complete the task associated to this TODO comment.(Ê‘èùÿÿÿÿ8ˆëÅìâ.
+?
+java:S1643¬"Use a StringBuilder instead.(ÚıÃŞıÿÿÿÿ8ˆëÅìâ.
+o
+java:S1104%"RMake memory a static final constant or non-public and provide accessors if needed.(âï•Ÿ8ˆëÅìâ.
+T
+java:S1135d"2Complete the task associated to this TODO comment.(ˆ»¥øøÿÿÿÿ8ˆëÅìâ.
+O
+java:S11358"2Complete the task associated to this TODO comment.(ªÏí¤8ˆëÅìâ.
+P
+java:S1135™"2Complete the task associated to this TODO comment.(…ïœ†8ˆëÅìâ.
+T
+java:S1135A"2Complete the task associated to this TODO comment.(è³çŞúÿÿÿÿ8ˆëÅìâ.
+?
+java:S1643¾"Use a StringBuilder instead.(ÚıÃŞıÿÿÿÿ8ˆëÅìâ.
+P
+java:S1135¥"2Complete the task associated to this TODO comment.(…ïœ†8ˆëÅìâ.
+o
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(«™‹8ˆëÅìâ.
+O
+java:S1135G"2Complete the task associated to this TODO comment.(¨„Ü¿8ˆëÅìâ.

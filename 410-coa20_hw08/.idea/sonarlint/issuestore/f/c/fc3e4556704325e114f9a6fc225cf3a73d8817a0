@@ -1,0 +1,76 @@
+
+s
+java:S3008-"VRename this field "PAGE_SIZE_B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁœÈ¿8§ïÂìâ.
+J
+java:S1444!"-Make this "public static SEGMENT" field final(ûî…¢8§ïÂìâ.
+R
+java:S1066ã"/Merge this if statement with the enclosing one.(ÃêÎ‰şÿÿÿÿ8§ïÂìâ.
+k	java:S100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷òŒã8§ïÂìâ.
+U
+java:S1135¦"2Complete the task associated to this TODO comment.(×®ƒ¤şÿÿÿÿ8§ïÂìâ.
+Y
+java:S2696ë"6Make the enclosing method "static" or remove this set.(³Æïîıÿÿÿÿ8§ïÂìâ.
+o
+java:S3008!"RRename this field "SEGMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûî…¢8§ïÂìâ.
+P
+java:S1135³"2Complete the task associated to this TODO comment.(…ïœ†8§ïÂìâ.
+q	java:S116"TRename this field "disk_base" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì½ù«8§ïÂìâ.
+T
+java:S2696’"6Make the enclosing method "static" or remove this set.(“ºÓ½8§ïÂìâ.
+w
+java:S3008("URename this field "MEM_SIZE_B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒıûÖşÿÿÿÿ8§ïÂìâ.
+P
+java:S1135Ó"2Complete the task associated to this TODO comment.(…ïœ†8§ïÂìâ.
+t
+java:S3776k"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ìûÂşøÿÿÿÿ8§ïÂìâ.
+R
+java:S1444("0Make this "public static MEM_SIZE_B" field final(ƒıûÖşÿÿÿÿ8§ïÂìâ.
+L
+java:S1066ß"/Merge this if statement with the enclosing one.(¢Öœ(8§ïÂìâ.
+s	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó™—Éúÿÿÿÿ8§ïÂìâ.
+p
+java:S1104!"SMake SEGMENT a static final constant or non-public and provide accessors if needed.(ûî…¢8§ïÂìâ.
+U
+java:S1135µ"2Complete the task associated to this TODO comment.(—¿è‡ùÿÿÿÿ8§ïÂìâ.
+O
+java:S1135¹"2Complete the task associated to this TODO comment.(Øú8§ïÂìâ.
+L
+java:S1066t"/Merge this if statement with the enclosing one.(…¿ô8§ïÂìâ.
+x
+java:S1104("VMake MEM_SIZE_B a static final constant or non-public and provide accessors if needed.(ƒıûÖşÿÿÿÿ8§ïÂìâ.
+E
+java:S1604¤"(Make this anonymous inner class a lambda(Š¨µ[8§ïÂìâ.
+p	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó™—Éúÿÿÿÿ8§ïÂìâ.
+N
+java:S1444-"1Make this "public static PAGE_SIZE_B" field final(ÁœÈ¿8§ïÂìâ.
+S
+java:S1117¡"5Rename "t" which hides the field declared at line 47.(ÃØı8§ïÂìâ.
+7
+java:S17004"Rename field "memory"(½µş“ûÿÿÿÿ8§ïÂìâ.
+Y	java:S125­"<This block of commented-out lines of code should be removed.(‹²Ö¡8§ïÂìâ.
+G
+java:S1444#"*Make this "public static PAGE" field final(–°¬Ñ8§ïÂìâ.
+I
+java:S1168Î"&Return an empty array instead of null.( Åîúÿÿÿÿ8§ïÂìâ.
+Y
+java:S2696õ"6Make the enclosing method "static" or remove this set.(‰”¯¯øÿÿÿÿ8§ïÂìâ.
+k	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îØØ8§ïÂìâ.
+p	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÊ¡âùÿÿÿÿ8§ïÂìâ.
+x
+java:S3923»"[Remove this conditional structure or edit its code blocks so that they're not all the same.(‡ÕÅ58À³æğâ.
+k	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿£Àè8§ïÂìâ.
+k	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü°Øâ8§ïÂìâ.
+E
+java:S1128"(Remove this unused import 'cpu.alu.ALU'.(–üªü8§ïÂìâ.
+Y
+java:S2696±"6Make the enclosing method "static" or remove this set.(Ê“ÓÈüÿÿÿÿ8§ïÂìâ.
+m
+java:S1104#"PMake PAGE a static final constant or non-public and provide accessors if needed.(–°¬Ñ8§ïÂìâ.
+I
+java:S1168Â"&Return an empty array instead of null.( Åîúÿÿÿÿ8§ïÂìâ.
+t
+java:S1104-"WMake PAGE_SIZE_B a static final constant or non-public and provide accessors if needed.(ÁœÈ¿8§ïÂìâ.
+l
+java:S1104Z"PMake disk a static final constant or non-public and provide accessors if needed.(„ƒ]8§ïÂìâ.
+l
+java:S3008#"ORename this field "PAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–°¬Ñ8§ïÂìâ.

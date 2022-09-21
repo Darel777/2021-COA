@@ -1,0 +1,27 @@
+
+i	java:S116"NRename this field "TLB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(νωx8μΖμβ.
+|
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ήΝΔΗϊÿÿÿÿ8μΖμβ.
+M
+java:S1444""1Make this "public static tlbInstance" field final(Φψϋ^8μΖμβ.
+_
+java:S22592"BA "NullPointerException" could be thrown; "get()" can return null.(›‰«Ψ8μΖμβ.
+d
+java:S2259U"BA "NullPointerException" could be thrown; "get()" can return null.(ί”Σ‹ϊÿÿÿÿ8μΖμβ.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±ΖΔ†ωÿÿÿÿ8μΖμβ.
+b
+java:S2259b"EA "NullPointerException" could be thrown; "tlbLine" is nullable here.(Ò†τ8μΖμβ.
+_
+java:S2259@"BA "NullPointerException" could be thrown; "get()" can return null.(½›η8μΖμβ.
+_
+java:S22592"BA "NullPointerException" could be thrown; "get()" can return null.(›‰«Ψ8μΖμβ.
+=
+java:S21292" Remove this "String" constructor(›‰«Ψ8μΖμβ.
+d
+java:S2259\"BA "NullPointerException" could be thrown; "get()" can return null.(ΞΟΞώÿÿÿÿ8μΖμβ.
+.
+java:S1700"Rename field "TLB"(νωx8μΖμβ.
+|
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(΅Ϋλϋÿÿÿÿ8μΖμβ.
+s
+java:S1104""WMake tlbInstance a static final constant or non-public and provide accessors if needed.(Φψϋ^8μΖμβ.
