@@ -1,0 +1,7 @@
+
+g	java:S116"MRename this field "OF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ«Éêøÿÿÿÿ
+H
+java:S1068"&Remove this unused "CF" private field.(³–œ£úÿÿÿÿ8·ÐñÞæ.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¼ç‚¼ùÿÿÿÿ8ÿ˜Ï®æ.
+g	java:S116"MRename this field "CF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³–œ£úÿÿÿÿ

@@ -1,0 +1,33 @@
+
+w
+java:S2234"UParameters to add have the same names but not the same order as the method arguments.(åØÍÓùÿÿÿÿ8Šá©†Õ.
+>
+java:S1643x"Use a StringBuilder instead.(Ý§ ¹ûÿÿÿÿ8ØÀÚƒÕ.
+]
+java:S1854I";Remove this useless assignment to local variable "counter".(§ãì”ýÿÿÿÿ8Ç³Ý†Õ.
+>
+java:S1643U"Use a StringBuilder instead.(Óô¶úÿÿÿÿ8Ø½é‚Õ.
+>
+java:S1643e"Use a StringBuilder instead.(Ý§ ¹ûÿÿÿÿ8‰¯·ƒÕ.
+Q
+java:S1128"4Remove this unused import 'transformer.Transformer'.(“çÆü8çÅæ†Õ.
+H
+java:S1135"2Complete the task associated to this TODO comment.(…ïœ†
+]
+java:S1854l";Remove this useless assignment to local variable "counter".(§ãì”ýÿÿÿÿ8Í¼ã†Õ.
+A
+java:S1068"&Remove this unused "CF" private field.(³–œ£úÿÿÿÿ
+9
+java:S1643<"Use a StringBuilder instead.(îÿ±ñ8•¿öÕ.
+X
+java:S1854Q";Remove this useless assignment to local variable "counter".(Ûœ¨™8½ãß†Õ.
+s
+java:S1450"QRemove the "OF" field and declare it as a local variable in the relevant methods.(ˆ«Éêøÿÿÿÿ8³‡šƒÕ.
+g	java:S116"MRename this field "OF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ«Éêøÿÿÿÿ
+g	java:S116"MRename this field "CF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³–œ£úÿÿÿÿ
+P
+java:S1135Š"2Complete the task associated to this TODO comment.(…ïœ†8ÙèŽ‚Õ.
+X
+java:S1854t";Remove this useless assignment to local variable "counter".(Ûœ¨™8¥ßä†Õ.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(»ôÜ”ùÿÿÿÿ8ú·ÿÕ.

@@ -1,0 +1,31 @@
+
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(­öë½8ş”ñ´æ.
+U	java:S106{"9Replace this use of System.out or System.err by a logger.(¸²Ï±8ş”ñ´æ.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(úòÔ©şÿÿÿÿ8ƒŒµæ.
+n	java:S116"MRename this field "OF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ«Éêøÿÿÿÿ8¿”Ó­æ.
+z
+java:S1192+"]Define a constant instead of duplicating this literal "0000000000000000000000000001" 4 times.(öãµ·8ÆÑ—´æ.
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(àÄø¤ÿÿÿÿÿ8ğ­ô´æ.
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(îÏïÇıÿÿÿÿ8¿Õî´æ.
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¨´«şÿÿÿÿ8ºÁ”µæ.
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(ïü‡İÿÿÿÿÿ8çàï´æ.
+9
+java:S1643i"Use a StringBuilder instead.(”ÿ×¹8ı¿È³æ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öÁæõ8Ïüô´æ.
+„
+java:S1192‚"aDefine a constant instead of duplicating this literal "11000000000000000000000000000000" 3 times.(¨´«şÿÿÿÿ8›é¢µæ.
+>
+java:S1643@"Use a StringBuilder instead.(óœíÿÿÿÿÿ8İÌ‰´æ.
+H
+java:S1068"&Remove this unused "OF" private field.(ˆ«Éêøÿÿÿÿ8¿”Ó­æ.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(©æÉ8¦µæ.
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(ä‘ª–8Àí´æ.
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(“Æ ¹üÿÿÿÿ8ùˆ×´æ.
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(æ„¥ø8Æş×´æ.
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(¨´«şÿÿÿÿ8ƒŒµæ.
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(¨´«şÿÿÿÿ8¦µæ.
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(ãªøÿÿÿÿÿ8„ñ’µæ.
+H
+java:S1068"&Remove this unused "CF" private field.(³–œ£úÿÿÿÿ8¿”Ó­æ.
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(û„ 8Àí´æ.
+n	java:S116"MRename this field "CF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³–œ£úÿÿÿÿ8¿”Ó­æ.
