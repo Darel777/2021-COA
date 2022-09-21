@@ -1,0 +1,24 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îÿ««úÿÿÿÿ8è—‚àæ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñëÜ¶8æÖƒàæ.
+n	java:S116"MRename this field "OF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ«Éêøÿÿÿÿ8ÛËåßæ.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÍûw8Òê…àæ.
+M
+java:S1128"0Remove this unused import 'util.BinaryIntegers'.(¡Œñ¡8ÛËåßæ.
+m	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñëÜ¶8í´àæ.
+n	java:S116"MRename this field "CF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³–œ£úÿÿÿÿ8ÛËåßæ.
+H
+java:S1068"&Remove this unused "CF" private field.(³–œ£úÿÿÿÿ8ÛËåßæ.
+s
+java:S1450"QRemove the "OF" field and declare it as a local variable in the relevant methods.(ˆ«Éêøÿÿÿÿ8×‘•àæ.
+t
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¼ç‚¼ùÿÿÿÿ8€¯áæ.
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œãş‡ùÿÿÿÿ8Ä—Äàæ.
+m	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§âèğ8í´àæ.
+H
+java:S1068"&Remove this unused "OF" private field.(ˆ«Éêøÿÿÿÿ8ÛËåßæ.
+l	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À•98¨äµàæ.
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œãş‡ùÿÿÿÿ8Òê…àæ.
+r	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¾Àƒıÿÿÿÿ8ôü‡àæ.
+>
+java:S1643|"Use a StringBuilder instead.(íçİêıÿÿÿÿ8€¯áæ.
