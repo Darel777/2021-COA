@@ -1,0 +1,26 @@
+
+g	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(·¸ÈÅÿÿÿÿÿ8¢Êœ†è.
+U
+java:S1854À"7Remove this useless assignment to local variable "out".( ­8¢Êœ†è.
+V	java:S106À"9Replace this use of System.out or System.err by a logger.( ­8¢Êœ†è.
+h
+java:S1764:"KCorrect one of the identical sub-expressions on both sides of operator "&&"(ïõñ8¢Êœ†è.
+o
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(ÁóŞŸ8¢Êœ†è.
+f
+java:S1192:"IDefine a constant instead of duplicating this literal "00000000" 7 times.(ïõñ8¢Êœ†è.
+[	java:S106Õ"9Replace this use of System.out or System.err by a logger.(Á«•ìúÿÿÿÿ8¢Êœ†è.
+f
+java:S1192["IDefine a constant instead of duplicating this literal "00000001" 7 times.(úÑäı8¢Êœ†è.
+h	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(·¸ÈÅÿÿÿÿÿ8¢Êœ†è.
+‚
+java:S1192J"`Define a constant instead of duplicating this literal "000000000000000000000000000001" 13 times.(–µ­ˆüÿÿÿÿ8¢Êœ†è.
+[	java:S106¾"9Replace this use of System.out or System.err by a logger.(™äªùÿÿÿÿ8¢Êœ†è.
+V	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(æÎÒæ8¢Êœ†è.
+F
+java:S1481À"(Remove this unused "out" local variable.( ­8¢Êœ†è.
+V	java:S106Ò"9Replace this use of System.out or System.err by a logger.(Œû8¢Êœ†è.
+^	java:S125Å"<This block of commented-out lines of code should be removed.(šìÉœøÿÿÿÿ8¢Êœ†è.
+V	java:S106×"9Replace this use of System.out or System.err by a logger.(€µ‹¢8¢Êœ†è.
+V	java:S106Ø"9Replace this use of System.out or System.err by a logger.(òÏ±8¢Êœ†è.
+V	java:S106Ô"9Replace this use of System.out or System.err by a logger.(Û§±¨8¢Êœ†è.

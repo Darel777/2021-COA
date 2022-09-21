@@ -1,0 +1,33 @@
+
+h
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(èĞŠÄ
+E
+java:S1172—".Remove this unused method parameter "sLength".(ûşææ
+[
+java:S2184F"ECast one of the operands of this subtraction operation to a "double".(Şı Ì
+h
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¹Á™¼
+c	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÿŠ{
+i	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şí¶¸şÿÿÿÿ
+{
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(µÌÃÃüÿÿÿÿ
+{
+java:S1149§"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
+a
+java:S2184™"ECast one of the operands of this subtraction operation to a "double".(ÓâÀéşÿÿÿÿ
+f	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÿŠ{
+P
+java:S2130Ñ"9Use "Integer.parseInt" for this string-to-int conversion.(ºˆÊ
+W	java:S125×"<This block of commented-out lines of code should be removed.(Õİã¨øÿÿÿÿ
+Y
+java:S2130)">Use "Double.parseDouble" for this string-to-double conversion.(Í§™Óÿÿÿÿÿ
+d	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸½å˜
+Q	java:S125Ò"<This block of commented-out lines of code should be removed.(úÅ÷G
+3
+java:S1643Ø"Use a StringBuilder instead.(¶‘¨¸
+2
+java:S1643"Use a StringBuilder instead.(Íõí
+A
+java:S1905M"&Remove this unnecessary cast to "int".(£”ô«üÿÿÿÿ
+S
+java:S1854“"7Remove this useless assignment to local variable "bit".(ç†”¾ıÿÿÿÿ
