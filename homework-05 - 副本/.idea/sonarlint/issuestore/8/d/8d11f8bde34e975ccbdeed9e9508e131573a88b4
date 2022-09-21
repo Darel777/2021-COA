@@ -1,0 +1,32 @@
+
+f
+java:S11922"IDefine a constant instead of duplicating this literal "00000000" 4 times.(åÃª¥8ùº—¨ç.
+i
+java:S1192Q"LDefine a constant instead of duplicating this literal "0000000001" 10 times.(Ëêª·8©ş“ªç.
+O
+java:S1135
+"2Complete the task associated to this TODO comment.(ğñ×©8ùº—¨ç.
+n
+java:S1192Z"LDefine a constant instead of duplicating this literal "0000000000" 10 times.(§ä¶éÿÿÿÿÿ8€â‰ªç.
+®
+java:S1192P"Define a constant instead of duplicating this literal "000000000000000000000000000000000000000000000000000000000000000000000000000001" 11 times.(‘¬Ÿæ8…•î©ç.
+o
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(íÒ«‘8ùº—¨ç.
+|
+java:S1192+"`Define a constant instead of duplicating this literal "0000000000000000000000000000000" 4 times.(«‰°S8¦Ëç.
+m
+java:S1192S"KDefine a constant instead of duplicating this literal "0011111111" 4 times.(¿±Ïıÿÿÿÿ8¦Ëç.
+t
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¯Ş“üüÿÿÿÿ8¦Ëç.
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(´É–Úşÿÿÿÿ8¦Ëç.
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(à®£™üÿÿÿÿ8¦Ëç.
+[	java:S106õ"9Replace this use of System.out or System.err by a logger.(ŞÒªüÿÿÿÿ8¦Ëç.
+[	java:S106ö"9Replace this use of System.out or System.err by a logger.(Šçøÿÿÿÿÿ8¦Ëç.
+[	java:S106ø"9Replace this use of System.out or System.err by a logger.(ı¦ş‡üÿÿÿÿ8¦Ëç.
+[	java:S106ù"9Replace this use of System.out or System.err by a logger.(‹œà¾øÿÿÿÿ8¦Ëç.
+V	java:S106ş"9Replace this use of System.out or System.err by a logger.(šè°ª8¦Ëç.
+V	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ñıµ–8¦Ëç.
+^	java:S125Ñ"<This block of commented-out lines of code should be removed.(»üïÈûÿÿÿÿ8¦Ëç.
+Y	java:S125ï"<This block of commented-out lines of code should be removed.(ÂÚë8¦Ëç.
+Y	java:S125ò"<This block of commented-out lines of code should be removed.(Æµ†Å8¦Ëç.
+^	java:S125û"<This block of commented-out lines of code should be removed.(áíÎüÿÿÿÿ8¦Ëç.

@@ -1,0 +1,24 @@
+
+7
+java:S1643	"Use a StringBuilder instead.(‘ñıûÿÿÿÿ
+7
+java:S1643:"Use a StringBuilder instead.(íçİêıÿÿÿÿ
+7
+java:S1643s"Use a StringBuilder instead.(‘ñıûÿÿÿÿ
+7
+java:S1643y"Use a StringBuilder instead.(„üÿäıÿÿÿÿ
+7
+java:S1643"Use a StringBuilder instead.(‰Öªûÿÿÿÿ
+3
+java:S1643„"Use a StringBuilder instead.(¯õó
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îÿ««úÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁåÎ´
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÍûw
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œãş‡ùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¾Àƒıÿÿÿÿ
+f	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§âèğ
+f	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁåÎ´
+e	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À•9
+k	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œãş‡ùÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼ç‚¼ùÿÿÿÿ
