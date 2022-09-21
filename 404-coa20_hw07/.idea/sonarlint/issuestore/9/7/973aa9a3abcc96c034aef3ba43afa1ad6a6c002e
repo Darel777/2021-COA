@@ -1,0 +1,87 @@
+
+E
+java:S1066e"/Merge this if statement with the enclosing one.(Ğœæı
+8
+java:S1643¡"Use a StringBuilder instead.(ÖÂïâıÿÿÿÿ
+8
+java:S1643¢"Use a StringBuilder instead.(Ò­”Èüÿÿÿÿ
+8
+java:S1643Ò"Use a StringBuilder instead.(æİ¼úÿÿÿÿ
+8
+java:S1643‰"Use a StringBuilder instead.(æİ¼úÿÿÿÿ
+8
+java:S1643¾"Use a StringBuilder instead.(ÖÂïâıÿÿÿÿ
+8
+java:S1643¿"Use a StringBuilder instead.(Ò­”Èüÿÿÿÿ
+8
+java:S1643è"Use a StringBuilder instead.(æİ¼úÿÿÿÿ
+3
+java:S1643ø"Use a StringBuilder instead.(’¥¦¤
+8
+java:S1643‘"Use a StringBuilder instead.(§×’”şÿÿÿÿ
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†é¡´
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ş·ò
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œí½şÿÿÿÿ
+g	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¿ö—
+g	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ«¶Ô
+g	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†é¡´
+g	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ş·ò
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œí½şÿÿÿÿ
+g	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¿ö—
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ«¶Ô
+g	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¯¢ü
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¤‹Íøÿÿÿÿ
+g	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†é¡´
+g	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ş·ò
+l	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œí½şÿÿÿÿ
+g	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¿ö—
+g	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ«¶Ô
+v
+java:S1149š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰ä …
+u
+java:S1149‰"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÄÍœ
+
+v
+java:S1149—"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Äê®ú
+{
+java:S1149¦"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(±Øç¥úÿÿÿÿ
+{
+java:S1149Ş"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥Äª—úÿÿÿÿ
+{
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(µÌÃÃüÿÿÿÿ
+{
+java:S1149Æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ºì¨¶
+m
+java:S3776`"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¡ÅÏÌûÿÿÿÿ
+v
+java:S1149š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰ä …
+u
+java:S1149‰"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÄÍœ
+
+v
+java:S1149—"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Äê®ú
+{
+java:S1149¦"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(±Øç¥úÿÿÿÿ
+{
+java:S1149Ş"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥Äª—úÿÿÿÿ
+{
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(µÌÃÃüÿÿÿÿ
+{
+java:S1149Æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
+i
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÊòŸÕ
+E
+java:S1125µ")Remove the literal "false" boolean value.(¾Åè”ÿÿÿÿÿ
+d	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïøª
+S
+java:S1854¤"7Remove this useless assignment to local variable "bit".(ç†”¾ıÿÿÿÿ
+N	java:S106Ò"9Replace this use of System.out or System.err by a logger.(±¢µj
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(ü¤åùüÿÿÿÿ
+T	java:S106Ô"9Replace this use of System.out or System.err by a logger.(±àÁüÿÿÿÿ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(°…†¤ùÿÿÿÿ
+T	java:S106×"9Replace this use of System.out or System.err by a logger.(ÈÙİÿÿÿÿÿ
+=
+java:S1068"'Remove this unused "alu" private field.(ºì¨¶
+R	java:S125’"<This block of commented-out lines of code should be removed.(ÔÚËÖ

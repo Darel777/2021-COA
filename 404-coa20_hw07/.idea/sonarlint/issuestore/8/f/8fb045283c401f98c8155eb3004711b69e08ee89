@@ -1,0 +1,46 @@
+
+o	java:S116"TRename this field "SynchByte" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌİÕÿÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(ô«ÿàøÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+i	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À…ˆÒüÿÿÿÿ
+d	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¹¼
+]	java:S125A"<This block of commented-out lines of code should be removed.(»ˆ‘‡ıÿÿÿÿ8¥”æ¨à.
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ñ€Ÿãøÿÿÿÿ
+.
+java:S1700&"Rename field "disk"(ì¬ÊŸşÿÿÿÿ
+d	java:S100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ğ‚‘
+f	java:S116"PRename this field "Track" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éš‰ò
+i	java:S116’"NRename this field "CRC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†«Üúÿÿÿÿ
+H
+java:S1135:"2Complete the task associated to this TODO comment.(…ïœ†
+L
+java:S1444"1Make this "public static DISK_SIZE_B" field final(¡«‚°ıÿÿÿÿ
+r
+java:S1104"WMake DISK_SIZE_B a static final constant or non-public and provide accessors if needed.(¡«‚°ıÿÿÿÿ
+q
+java:S3008"VRename this field "DISK_SIZE_B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡«‚°ıÿÿÿÿ
+
+java:S1845é"pRename method "toBitStream" to prevent any misunderstanding/clash with method "ToBitStream" defined on line 347.(Àó×8¥¯°¤à.
+H
+java:S1135r"2Complete the task associated to this TODO comment.(…ïœ†
+•
+java:S1845†"rRename method "toByteStream" to prevent any misunderstanding/clash with method "ToByteStream" defined on line 375.(õîçüÿÿÿÿ8×Ñ¤à.
+j	java:S116"ORename this field "Head" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹êù¸üÿÿÿÿ
+e	java:S116š"ORename this field "Data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´§ê
+i	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÆúèøÿÿÿÿ
+I
+java:S1135ú"2Complete the task associated to this TODO comment.(…ïœ†
+o	java:S116™"TRename this field "SynchByte" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌİÕÿÿÿÿÿ
+i	java:S116›"NRename this field "CRC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†«Üúÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+H
+java:S1135U"2Complete the task associated to this TODO comment.(…ïœ†
+i	java:S116$"TRename this field "DISK_HEAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŒÎÁ
+k
+java:S1104$"UMake DISK_HEAD a static final constant or non-public and provide accessors if needed.(ŞŒÎÁ
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(¶£ˆé8ìÍµ©à.
+I
+java:S1135Ş"2Complete the task associated to this TODO comment.(…ïœ†
+]	java:S125>"<This block of commented-out lines of code should be removed.(äªÑŞúÿÿÿÿ8¥”æ¨à.
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ˆÆúèøÿÿÿÿ

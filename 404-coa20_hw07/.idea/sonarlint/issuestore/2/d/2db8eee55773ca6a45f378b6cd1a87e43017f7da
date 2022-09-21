@@ -1,0 +1,68 @@
+
+a
+java:S1301$"KReplace this "switch" statement by "if" statements to increase readability.(ó¹ Ó
+x
+java:S1192°"aDefine a constant instead of duplicating this literal "00000000000000000000000000000000" 4 times.(õ·¸ê
+7
+java:S1643W"Use a StringBuilder instead.(Â±«‚úÿÿÿÿ
+7
+java:S1643["Use a StringBuilder instead.(«®¨«ûÿÿÿÿ
+8
+java:S1643ª"Use a StringBuilder instead.(§×’”şÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‡ø
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İš¹ÿÿÿÿÿ
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ÷•¢üÿÿÿÿ
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¿»êúÿÿÿÿ
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŞ”
+g	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¿ä¥
+g	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¿Ú¾
+r
+java:S14881"]Immediately return this expression instead of assigning it to the temporary variable "lower".(ŒÙ÷x
+z
+java:S1488œ"^Immediately return this expression instead of assigning it to the temporary variable "result".(Úˆé³ùÿÿÿÿ
+r
+java:S1488£"[Immediately return this expression instead of assigning it to the temporary variable "res".(üª˜Ì
+z
+java:S1149~"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(µÌÃÃüÿÿÿÿ
+u
+java:S1149”"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÄÍœ
+
+{
+java:S1149„"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥Äª—úÿÿÿÿ
+{
+java:S1149Ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
+v
+java:S1149ƒ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•ÕÛ
+P
+java:S18540":Remove this useless assignment to local variable "higher".(âÎÁ
+7	java:S131$""Add a default case to this switch.(ó¹ Ó
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ãñ·Åıÿÿÿÿ
+S
+java:S1854‚"7Remove this useless assignment to local variable "bit".(ç†”¾ıÿÿÿÿ
+n
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰¿®øøÿÿÿÿ
+P
+java:S1854©"9Remove this useless assignment to local variable "carry".(§Ú¤™
+i	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªßöàıÿÿÿÿ
+L
+java:S1854õ"5Remove this useless assignment to local variable "s".(ı£ûÅ
+Q
+java:S1854ô"5Remove this useless assignment to local variable "y".(¥ ÿÿÿÿÿ
+L
+java:S1854ó"5Remove this useless assignment to local variable "x".(ìöÒÄ
+d	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸­Òè
+2
+java:S3626Ë"Remove this redundant jump.(ÉŠ©ƒ
+A
+java:S14810"+Remove this unused "higher" local variable.(âÎÁ
+=
+java:S1481ó"&Remove this unused "x" local variable.(ìöÒÄ
+B
+java:S1481ô"&Remove this unused "y" local variable.(¥ ÿÿÿÿÿ
+=
+java:S1481õ"&Remove this unused "s" local variable.(ı£ûÅ
+V	java:S125"<This block of commented-out lines of code should be removed.(—£úÒûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¡¤òÀüÿÿÿÿ
+L
+java:S1144“"0Remove this unused private "addOverFlow" method.(¨ö“¦ıÿÿÿÿ

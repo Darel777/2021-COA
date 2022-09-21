@@ -1,0 +1,26 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šó¢¯ıÿÿÿÿ
+{
+java:S3012Y"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(”Ş®™şÿÿÿÿ8‹ƒÛ£à.
+k	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¸¬äùÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(…ïœ†
+{
+java:S30123"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(åÌ¸Èıÿÿÿÿ8âŸÿ¢à.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8åäŒ¢à.
+c	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¥–
+>
+java:S1128"(Remove this unused import 'cpu.alu.ALU'.(–üªü
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(”Ş®™şÿÿÿÿ8åäŒ¢à.
+h	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠøÖÔûÿÿÿÿ
+H
+java:S1135V"2Complete the task associated to this TODO comment.(…ïœ†
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¥–
+{
+java:S3012&"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¡¥×åşÿÿÿÿ8‰ùÒ¢à.
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(¦›
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8€Ú½£à.
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(’®Öâûÿÿÿÿ
+h	java:S100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¸¬äùÿÿÿÿ
