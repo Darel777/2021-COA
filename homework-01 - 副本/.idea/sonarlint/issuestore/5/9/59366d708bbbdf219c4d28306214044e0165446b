@@ -1,0 +1,38 @@
+
+[	java:S106æ"9Replace this use of System.out or System.err by a logger.(óËº±úÿÿÿÿ8Üû¥­æ.
+>
+java:S1643a"Use a StringBuilder instead.(î×þäúÿÿÿÿ8â‹Í£æ.
+?
+java:S1643Á"Use a StringBuilder instead.(Ÿ„ºýÿÿÿÿ8Þÿ¸¥æ.
+>
+java:S1643S"Use a StringBuilder instead.(ý¹¬¡ÿÿÿÿÿ8â‹Í£æ.
+[	java:S106ã"9Replace this use of System.out or System.err by a logger.(Å‘ªÔûÿÿÿÿ8ÒÐÒ¥æ.
+V	java:S106Ü"9Replace this use of System.out or System.err by a logger.(Ç™µå8“µ˜£æ.
+9
+java:S1643Ð"Use a StringBuilder instead.(°‹þ58ŽñË¥æ.
+V	java:S106ä"9Replace this use of System.out or System.err by a logger.(Êø“»8ÜµÕ¥æ.
+>
+java:S1643k"Use a StringBuilder instead.(Â¿ß¶üÿÿÿÿ8â‹Í£æ.
+j	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÿŠ{8Æ§§¥æ.
+9
+java:S1643"Use a StringBuilder instead.(´¡›·8Ëì‚¡æ.
+:
+java:S1643¸"Use a StringBuilder instead.(ÊãìÊ8¤É©¥æ.
+d
+java:S2184B"BCast one of the operands of this addition operation to a "double".(½Ð½øÿÿÿÿ8â‹Í£æ.
+?
+java:S1643¿"Use a StringBuilder instead.(ƒÐ©šÿÿÿÿÿ8¡®¸¥æ.
+[	java:S106ç"9Replace this use of System.out or System.err by a logger.(œËÅÌûÿÿÿÿ8ø¨·­æ.
+u	java:S135A"YReduce the total number of break and continue statements in this loop to use at most one.(“õÐÁ8â‹Í£æ.
+m	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÿŠ{8Æ§§¥æ.
+o
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(èÐŠÄ8â‹Í£æ.
+U	java:S106Û"9Replace this use of System.out or System.err by a logger.(²ú¦G8©¾¹£æ.
+[	java:S106Ý"9Replace this use of System.out or System.err by a logger.(öôè¡üÿÿÿÿ8ª”Í¢æ.
+>
+java:S1643h"Use a StringBuilder instead.(ý¹¬¡ÿÿÿÿÿ8â‹Í£æ.
+V	java:S106à"9Replace this use of System.out or System.err by a logger.(™ž¹—8Âð­¤æ.
+U	java:S106á"9Replace this use of System.out or System.err by a logger.(Ý„õ8Æ§§¥æ.
+[	java:S106Þ"9Replace this use of System.out or System.err by a logger.(ú©žùÿÿÿÿ8Æ§§¥æ.
+>
+java:S1643V"Use a StringBuilder instead.(Â¿ß¶üÿÿÿÿ8â‹Í£æ.

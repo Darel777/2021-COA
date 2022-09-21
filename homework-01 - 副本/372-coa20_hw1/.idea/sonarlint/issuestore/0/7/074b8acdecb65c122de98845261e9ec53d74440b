@@ -1,0 +1,50 @@
+
+m	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÿŠ{8ÜÚ¥êÒ.
+>
+java:S1643v"Use a StringBuilder instead.(´ğ¶”øÿÿÿÿ8ÜÚ¥êÒ.
+P
+java:S1135À"2Complete the task associated to this TODO comment.(ÓñàÍ8ÜÚ¥êÒ.
+?
+java:S1643ú"Use a StringBuilder instead.(ƒĞ©šÿÿÿÿÿ8©›ÃìÒ.
+:
+java:S1643™"Use a StringBuilder instead.(ßñÖÂ8ÜÚ¥êÒ.
+]	java:S125m"<This block of commented-out lines of code should be removed.(ß•Ûüÿÿÿÿ8ÜÚ¥êÒ.
+e
+java:S2184Î"BCast one of the operands of this addition operation to a "double".(–£‰şÿÿÿÿ8¢ıÛêÒ.
+?
+java:S1643‡"Use a StringBuilder instead.(Ã±¦şÿÿÿÿ8ÜÚ¥êÒ.
+j	java:S100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÿŠ{8ÜÚ¥êÒ.
+>
+java:S1643#"Use a StringBuilder instead.(¤›·ıüÿÿÿÿ8ÜÚ¥êÒ.
+c
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(ó”Šş8Ë úìÒ.
+?
+java:S1643±"Use a StringBuilder instead.(Ùáıæøÿÿÿÿ8ÜÚ¥êÒ.
+P
+java:S1135æ"2Complete the task associated to this TODO comment.(ÓñàÍ8ÜÚ¥êÒ.
+?
+java:S1643œ"Use a StringBuilder instead.(Ã±¦şÿÿÿÿ8ÜÚ¥êÒ.
+P
+java:S1135…"2Complete the task associated to this TODO comment.(ÓñàÍ8ÜÚ¥êÒ.
+>
+java:S16432"Use a StringBuilder instead.(¤›·ıüÿÿÿÿ8ÜÚ¥êÒ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›üÃ³8ÜÚ¥êÒ.
+e
+java:S2184Ù"BCast one of the operands of this addition operation to a "double".(–£‰şÿÿÿÿ8Õ–ôêÒ.
+:
+java:S1643®"Use a StringBuilder instead.(ßñÖÂ8ÜÚ¥êÒ.
+g
+java:S2184T"ECast one of the operands of this subtraction operation to a "double".(×Ü”Šøÿÿÿÿ8ÜÚ¥êÒ.
+O
+java:S1135"2Complete the task associated to this TODO comment.(ÓñàÍ8ÜÚ¥êÒ.
+O
+java:S1135?"2Complete the task associated to this TODO comment.(ÓñàÍ8ÜÚ¥êÒ.
+9
+java:S1643x"Use a StringBuilder instead.(¥õ¸û8ÜÚ¥êÒ.
+?
+java:S1643´"Use a StringBuilder instead.(Ã±¦şÿÿÿÿ8ÜÚ¥êÒ.
+?
+java:S1643ü"Use a StringBuilder instead.(Ÿ„ºıÿÿÿÿ8—­ÆìÒ.
+o
+java:S3776`"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(èĞŠÄ8ÜÚ¥êÒ.
