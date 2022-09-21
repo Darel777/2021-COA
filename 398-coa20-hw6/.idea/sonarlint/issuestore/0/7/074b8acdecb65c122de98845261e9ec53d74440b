@@ -1,0 +1,36 @@
+
+[
+java:S2184G"ECast one of the operands of this subtraction operation to a "double".(Þý Ì
+a
+java:S2184˜"ECast one of the operands of this subtraction operation to a "double".(ÓâÀéþÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(Íõí
+f	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÿŠ{
+{
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(µÌÃÃüÿÿÿÿ
+{
+java:S1149¨"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜Ýâœÿÿÿÿÿ
+h
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(èÐŠÄ
+Y
+java:S2130*">Use "Double.parseDouble" for this string-to-double conversion.(Í§™Óÿÿÿÿÿ
+;
+java:S1905N"&Remove this unnecessary cast to "int".(§ÖÍ-
+h
+java:S3776W"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¹Á™¼
+c	java:S100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÿŠ{
+S
+java:S1854”"7Remove this useless assignment to local variable "bit".(ç†”¾ýÿÿÿÿ
+d	java:S100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸½å˜
+i	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þí¶¸þÿÿÿÿ
+E
+java:S1172–".Remove this unused method parameter "sLength".(ûþææ
+L
+java:S1854Õ"5Remove this useless assignment to local variable "t".(žÃØý
+O	java:S106ð"9Replace this use of System.out or System.err by a logger.(˜˜»Å
+T	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ÓùÅ¼þÿÿÿÿ
+=
+java:S1481Õ"&Remove this unused "t" local variable.(žÃØý
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(ª–ïÅûÿÿÿÿ
+R	java:S125á"<This block of commented-out lines of code should be removed.(§«Ï‹
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¿þÇ¥ùÿÿÿÿ

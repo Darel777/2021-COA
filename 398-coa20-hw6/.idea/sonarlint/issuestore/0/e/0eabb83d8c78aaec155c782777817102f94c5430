@@ -1,0 +1,12 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒù‰¸ýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ°ûùúÿÿÿÿ
+d	java:S116"ORename this field "SETS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ ¡Ú
+H
+java:S1135."2Complete the task associated to this TODO comment.(…ïœ†
+H
+java:S1135F"2Complete the task associated to this TODO comment.(…ïœ†
+H
+java:S1135N"2Complete the task associated to this TODO comment.(…ïœ†
+H
+java:S1135X"2Complete the task associated to this TODO comment.(…ïœ†

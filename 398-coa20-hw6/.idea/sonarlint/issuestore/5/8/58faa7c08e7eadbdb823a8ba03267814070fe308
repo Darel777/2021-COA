@@ -1,0 +1,25 @@
+
+k	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯–ëşÿÿÿÿ
+/
+java:S1700%"Rename field "cache"(Õ¸Äûÿÿÿÿ
+q
+java:S11048"[Make mappingStrategy a static final constant or non-public and provide accessors if needed.(ªŠı¨
+t
+java:S1104="YMake writeStrategy a static final constant or non-public and provide accessors if needed.(·¦–Àıÿÿÿÿ
+i
+java:S1104è"RMake clPool a static final constant or non-public and provide accessors if needed.(ß°¿
+p
+java:S1104ƒ"TMake validBit a static final constant or non-public and provide accessors if needed.(ÍŒşóşÿÿÿÿ
+h
+java:S1104…"QMake dirty a static final constant or non-public and provide accessors if needed.(²ŒáÈ
+q
+java:S1104Š"UMake timeStamp a static final constant or non-public and provide accessors if needed.(Áşš¿øÿÿÿÿ
+f
+java:S1104“"OMake tag a static final constant or non-public and provide accessors if needed.(Å†³
+g
+java:S1104–"PMake data a static final constant or non-public and provide accessors if needed.(İæ¯
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±ÆÄ†ùÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(†Úñ
+H
+java:S1135H"2Complete the task associated to this TODO comment.(…ïœ†
